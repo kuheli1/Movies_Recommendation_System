@@ -23,9 +23,11 @@ Data Collection:
   Feature Engineering: Creating useful features from raw data
 
 **Data Transformation:**
+
 Text Vectorization: Apply word embeddings to movie genres,keywords,cast,crew to create feature vectors.
 
 **Modeling Approach:**
+
 Cosine Similarity:
 Similarity Calculation: Compute the cosine similarity between the text vectors of movies to find similarities between them.
 Recommendation Generation: Recommend movies that have high cosine similarity to movies user is looking for.
