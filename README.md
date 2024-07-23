@@ -24,5 +24,8 @@ Cosine Similarity:
 Similarity Calculation: Compute the cosine similarity between the text vectors of movies to find similarities between them.
 Recommendation Generation: Recommend movies that have high cosine similarity to movies user is looking for.
 
+Streamlit Application Development:
+Developed an interactive Streamlit application that allows users to enter a movie name and receive five personalized movie recommendations, integrating movie posters for a visually appealing interface.
+
 Summary:
 The movie recommendation system leverages text vectorization and cosine similarity to provide personalized movie suggestions. 
