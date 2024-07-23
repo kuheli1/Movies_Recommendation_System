@@ -4,8 +4,11 @@ To develop a movie recommendation system that enhances user experience by provid
 Goals:
 
 Increase User Engagement: By offering personalized recommendations, users are more likely to spend more time on the platform.
+
 Boost Sales: For platforms that sell or rent movies, personalized recommendations can increase purchase or rental rates.
+
 Improve User Retention: A tailored experience can keep users coming back to the platform, reducing churn rates.
+
 Enhance User Satisfaction: Providing relevant content leads to a more satisfying user experience, resulting in positive reviews and word-of-mouth promotion.
 
 Data Modeling
