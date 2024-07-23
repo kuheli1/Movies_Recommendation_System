@@ -14,6 +14,7 @@ Data Collection:
 
 Data Preprocessing:
   Cleaning: Handling missing values, removing duplicates, and normalizing data.
+  
   Feature Engineering: Creating useful features from raw data
 
 Data Transformation:
