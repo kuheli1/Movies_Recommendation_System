@@ -16,9 +16,6 @@ Data Preprocessing:
   Cleaning: Handling missing values, removing duplicates, and normalizing data.
   Feature Engineering: Creating useful features from raw data
 
-Modeling Approaches:
-  Content-Based Filtering: Recommending movies by analyzing the content of movies and user preferences
-
 Data Transformation:
 Text Vectorization: Apply word embeddings to movie genres,keywords,cast,crew to create feature vectors.
 
