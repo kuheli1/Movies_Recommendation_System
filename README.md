@@ -11,7 +11,8 @@ Improve User Retention: A tailored experience can keep users coming back to the 
 
 Enhance User Satisfaction: Providing relevant content leads to a more satisfying user experience, resulting in positive reviews and word-of-mouth promotion.
 
-**Data Modeling**
+**Data Modeling:**
+
 Data Collection:
   Movie Data: Metadata about movies, including genres, title, cast, crew, keywords
 
